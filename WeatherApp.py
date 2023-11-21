@@ -1,7 +1,7 @@
 import tkinter as tk
 import requests
 
-HEIGHT = 500
+HEIGHT = 800
 WIDTH = 600
 
 def test_function(entry):
